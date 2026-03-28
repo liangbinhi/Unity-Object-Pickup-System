@@ -1,6 +1,7 @@
 # Unity Object Pickup System
 
-[项目预览图位置 1]
+![ezgif-829512b22699fb16](https://github.com/user-attachments/assets/a89d8168-fe7a-4852-8a8c-7cb32c5ecad7)
+
 
 ## 项目简介
 
