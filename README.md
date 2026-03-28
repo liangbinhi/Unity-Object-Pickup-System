@@ -1,6 +1,7 @@
 # Unity Object Pickup System
 
 ![ezgif-829512b22699fb16](https://github.com/user-attachments/assets/a89d8168-fe7a-4852-8a8c-7cb32c5ecad7)
+![ezgif-838c7f86d76b29c4](https://github.com/user-attachments/assets/027f29d5-45fc-4b10-8759-4b2ce51aba2f)
 
 
 ## 项目简介
